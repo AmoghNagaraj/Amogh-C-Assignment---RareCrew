@@ -1,82 +1,55 @@
-# Amogh-C-Assignment---RareCrew
+# Amogh-C#-Assignment---RareCrew
 
-C# Assignment - RareCrew
 This repository contains two C# console applications designed to visualize employee time entry data retrieved from a REST API endpoint.
 
-Projects Included
-HTML Table Visualization: Generates an HTML page displaying employee time data in a table, ordered by total time worked, with conditional styling.
+## 📁 Projects Included
 
-Pie Chart Visualization: Generates a PNG image file of a pie chart, illustrating the percentage of total time worked by each employee.
+- **HTML Table Visualization**: Generates an HTML page displaying employee time data in a table, ordered by total time worked, with conditional styling.
+- **Pie Chart Visualization**: Generates a PNG pie chart illustrating the percentage of total time worked by each employee.
 
-1. HTML Table Visualization
-This project fetches time entry data, processes it, and outputs an HTML file (EmployeeTimeReport.html) that can be viewed in a web browser.
+---
 
-Features
-Retrieves data from https://rc-vault-fap-live-1.azurewebsites.net/api/gettimeentries.
+## 🧾 1. HTML Table Visualization
 
-Calculates the total time worked for each employee (excluding deleted entries).
+### Features
 
-Orders employees by total time worked in descending order.
+- Retrieves data from the [Time Entries API](https://rc-vault-fap-live-1.azurewebsites.net/api/gettimeentries).
+- Calculates total time worked by each employee (excluding deleted entries).
+- Sorts employees by total time in descending order.
+- Generates a responsive HTML table displaying names and time worked.
+- Highlights rows in red for employees who worked less than **100 hours**.
 
-Generates a responsive HTML table showing employee names and their total time worked.
+### How to Run
 
-Highlights table rows in red for employees who worked less than 100 hours.
+1. Clone this repository or download the `HtmlTableVisualization` project files.
+2. Open the project in Visual Studio or your preferred C# IDE.
+3. Build and run the application.
+4. Upon execution, the `EmployeeTimeReport.html` file will be generated in the output directory:
 
-How to Run
-Clone this repository or download the HtmlTableVisualization project files.
 
-Open the project in Visual Studio or your preferred C# IDE.
+5. Open the HTML file in any web browser to view the visualization.
 
-Build the project.
+---
 
-Run the application.
+## 🥧 2. Pie Chart Visualization
 
-Upon successful execution, a file named EmployeeTimeReport.html will be generated in your project's output directory (e.g., bin/Debug/net8.0/). The console output will provide the full path to this file. Open this HTML file in any web browser to view the table.
+### Features
 
-2. Pie Chart Visualization
-This project fetches the same time entry data and generates a PNG image file (EmployeeTimePieChart.png) representing the distribution of total time worked among employees.
+- Retrieves data from the same [Time Entries API](https://rc-vault-fap-live-1.azurewebsites.net/api/gettimeentries).
+- Calculates each employee’s total time and their percentage of the overall time.
+- Generates a pie chart image (`EmployeeTimePieChart.png`) with unique color slices per employee.
+- Displays a legend mapping colors to employee names, percentages, and total hours.
 
-Features
-Retrieves data from https://rc-vault-fap-live-1.azurewebsites.net/api/gettimeentries.
+### How to Run
 
-Calculates the total time worked for each employee and their percentage of the overall total.
+1. Clone this repository or download the `PieChartVisualization` project files.
+2. Open the project in Visual Studio or your preferred C# IDE.
+3. Install the `System.Drawing.Common` NuGet package:
 
-Generates a pie chart image with distinct colors for each employee's slice.
+### Requirements
+1. .NET SDK (version 8.0 or compatible)
+2. For Pie Chart: System.Drawing.Common NuGet package.
 
-Includes a legend mapping colors to employee names, their percentages, and total hours.
-
-Saves the chart as EmployeeTimePieChart.png.
-
-How to Run
-Clone this repository or download the PieChartVisualization project files.
-
-Open the project in Visual Studio or your preferred C# IDE.
-
-Install the System.Drawing.Common NuGet package. This is crucial for graphics operations in .NET Core/.NET 5+ and later versions (like .NET 8.0).
-
-Using .NET CLI:
-Navigate to the project directory in your terminal and run:
-
+#### Using .NET CLI
+```bash
 dotnet add package System.Drawing.Common
-
-Using Visual Studio:
-Right-click on the PieChartVisualization project in Solution Explorer -> "Manage NuGet Packages..." -> Browse tab -> Search for System.Drawing.Common -> Install.
-
-Build the project.
-
-Run the application.
-
-Upon successful execution, a file named EmployeeTimePieChart.png will be generated in your project's output directory (e.g., bin/Debug/net8.0/). The console output will provide the full path to this file. You can open this PNG image with any image viewer.
-
-API Endpoint
-Both projects retrieve data from the following public API endpoint:
-
-https://rc-vault-fap-live-1.azurewebsites.net/api/gettimeentries?code=vO17RnE8vuzXzPJo5eaLLjXjmRW07law99QTD90zat9FfOQJKKUcgQ==
-
-Requirements
-.NET SDK (version 8.0 or compatible)
-
-For Pie Chart: System.Drawing.Common NuGet package.
-
-Contributing
-Feel free to fork this repository, open issues, or submit pull requests.
