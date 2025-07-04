@@ -24,7 +24,7 @@ This repository contains two C# console applications designed to visualize emplo
 1. Clone this repository or download the `HtmlTableVisualization` project files.
 2. Open the project in Visual Studio or your preferred C# IDE.
 3. Build and run the application.
-4. Upon execution, the `EmployeeTimeReport.html` file will be generated in the output directory:".....bin/Debug/.net8.0/...."
+4. Upon execution, the `EmployeeTimeReport.html` file will be generated in the output directory:      .....bin/Debug/.net8.0/....
 
 
 5. Open the HTML file in any web browser to view the visualization.
