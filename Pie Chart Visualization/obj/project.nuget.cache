@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7JUYdKfGaY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amogh\\Amogh N Kotha RNSIT\\4th Year\\C#RareCrew\\Pie Chart Visualization\\Pie Chart Visualization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amogh\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.6\\microsoft.win32.systemevents.9.0.6.nupkg.sha512",
+    "C:\\Users\\amogh\\.nuget\\packages\\system.drawing.common\\9.0.6\\system.drawing.common.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

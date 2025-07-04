@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Time Report</title>
+    <style>
+        body { font-family: 'Inter', sans-serif; margin: 20px; background-color: #f4f7f6; color: #333; }
+        h1 { color: #2c3e50; text-align: center; margin-bottom: 30px; }
+        table { width: 80%; margin: 0 auto; border-collapse: collapse; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #4CAF50; color: white; font-weight: bold; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        tr:hover { background-color: #e9e9e9; }
+        .low-hours { background-color: #ffdddd; color: #cc0000; font-weight: bold; }
+        .low-hours:hover { background-color: #ffcccc; }
+    </style>
+</head>
+<body>
+    <h1>Employee Time Report</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Employee Name</th>
+                <th>Total Time Worked (Hours)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Patrick Huthinson</td>
+                <td>209.75</td>
+            </tr>
+            <tr>
+                <td>Stewart Malachi</td>
+                <td>197.83</td>
+            </tr>
+            <tr>
+                <td>Abhay Singh</td>
+                <td>195.77</td>
+            </tr>
+            <tr>
+                <td>John Black</td>
+                <td>194.95</td>
+            </tr>
+            <tr>
+                <td>Mary Poppins</td>
+                <td>159.27</td>
+            </tr>
+            <tr>
+                <td>Tim Perkinson</td>
+                <td>157.52</td>
+            </tr>
+            <tr>
+                <td>Kavvay Verma</td>
+                <td>156.48</td>
+            </tr>
+            <tr>
+                <td>Rita Alley</td>
+                <td>112.18</td>
+            </tr>
+            <tr class="low-hours">
+                <td>Raju Sunuwar</td>
+                <td>93.53</td>
+            </tr>
+            <tr class="low-hours">
+                <td>Tamoy Smith</td>
+                <td>86.78</td>
+            </tr>
+            <tr class="low-hours">
+                <td></td>
+                <td>23.50</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

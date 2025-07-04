@@ -1,0 +1,14 @@
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\bin\Debug\net8.0\HTML Table Visualization.exe
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\bin\Debug\net8.0\HTML Table Visualization.deps.json
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\bin\Debug\net8.0\HTML Table Visualization.runtimeconfig.json
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\bin\Debug\net8.0\HTML Table Visualization.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\bin\Debug\net8.0\HTML Table Visualization.pdb
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\obj\Debug\net8.0\HTML Table Visualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\obj\Debug\net8.0\HTML Table Visualization.AssemblyInfoInputs.cache
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\obj\Debug\net8.0\HTML Table Visualization.AssemblyInfo.cs
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\obj\Debug\net8.0\HTML Table Visualization.csproj.CoreCompileInputs.cache
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\obj\Debug\net8.0\HTML Table Visualization.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\obj\Debug\net8.0\refint\HTML Table Visualization.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\obj\Debug\net8.0\HTML Table Visualization.pdb
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\obj\Debug\net8.0\HTML Table Visualization.genruntimeconfig.cache
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\HTML Table Visualization\obj\Debug\net8.0\ref\HTML Table Visualization.dll

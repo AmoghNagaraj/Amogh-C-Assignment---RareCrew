@@ -1,0 +1,20 @@
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\Pie Chart Visualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\Pie Chart Visualization.AssemblyInfoInputs.cache
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\Pie Chart Visualization.AssemblyInfo.cs
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\Pie Chart Visualization.csproj.CoreCompileInputs.cache
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\bin\Debug\net8.0\Pie Chart Visualization.exe
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\bin\Debug\net8.0\Pie Chart Visualization.deps.json
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\bin\Debug\net8.0\Pie Chart Visualization.runtimeconfig.json
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\bin\Debug\net8.0\Pie Chart Visualization.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\bin\Debug\net8.0\Pie Chart Visualization.pdb
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\bin\Debug\net8.0\System.Private.Windows.Core.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\Pie Chart Visualization.csproj.AssemblyReference.cache
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\Pie Char.4EDAD3AC.Up2Date
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\Pie Chart Visualization.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\refint\Pie Chart Visualization.dll
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\Pie Chart Visualization.pdb
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\Pie Chart Visualization.genruntimeconfig.cache
+C:\Users\amogh\Amogh N Kotha RNSIT\4th Year\C#RareCrew\Pie Chart Visualization\obj\Debug\net8.0\ref\Pie Chart Visualization.dll
